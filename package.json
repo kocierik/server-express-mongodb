@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kocierik/server-express-mongodb/issues"
   },
-  "homepage": "https://github.com/kocierik/server-express-mongodb#readme"
+  "homepage": "https://github.com/kocierik/server-express-mongodb#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
